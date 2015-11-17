@@ -967,11 +967,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.28"
-     inkscape:cx="291.79091"
-     inkscape:cy="124.66514"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="542.88247"
+     inkscape:cy="89.231281"
      inkscape:document-units="px"
-     inkscape:current-layer="g4980"
+     inkscape:current-layer="g116151"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -1414,12 +1414,12 @@
                sodipodi:nodetypes="cc" />
             <path
                style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4660)"
-               d="m 780.91334,465.72147 10.73655,-0.46876"
+               d="m 780.98731,465.85024 15.58354,-0.68038"
                id="path4390"
                inkscape:connector-curvature="0" />
             <path
                style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
-               d="m 781.18755,465.94044 -0.064,-46.26302"
+               d="m 781.1573,465.9406 -0.0344,-24.79312"
                id="path4392"
                inkscape:connector-curvature="0" />
             <text
@@ -1436,11 +1436,11 @@
             <text
                sodipodi:linespacing="125%"
                id="text5214"
-               y="420.8197"
+               y="438.8197"
                x="773.26086"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                xml:space="preserve"><tspan
-                 y="420.8197"
+                 y="438.8197"
                  x="773.26086"
                  id="tspan5216"
                  sodipodi:role="line">y</tspan></text>
@@ -1448,11 +1448,11 @@
                sodipodi:linespacing="125%"
                id="text5218"
                y="470.8197"
-               x="793.57336"
+               x="797.57336"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                xml:space="preserve"><tspan
                  y="470.8197"
-                 x="793.57336"
+                 x="797.57336"
                  id="tspan5220"
                  sodipodi:role="line">z</tspan></text>
           </g>

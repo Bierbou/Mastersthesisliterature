@@ -726,7 +726,7 @@
      inkscape:cx="289.62892"
      inkscape:cy="160.02428"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4531"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -785,7 +785,7 @@
            height="57.724022"
            x="1431.5558"
            y="508.86694" /></flowRegion><flowPara
-         id="flowPara46643"></flowPara></flowRoot>    <g
+         id="flowPara46643" /></flowRoot>    <g
        id="g46806">
       <path
          inkscape:connector-curvature="0"
@@ -1268,118 +1268,125 @@
          style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          id="path45968"
          inkscape:connector-curvature="0" />
-      <path
-         d="m 525.20347,781.86116 219.99946,0 0,-120.5893 -219.99946,0 0,120.5893 z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.23351943;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         id="path45970"
-         inkscape:connector-curvature="0" />
-      <text
-         y="677.18634"
-         x="549.04626"
-         style="font-variant:normal;font-weight:normal;font-size:15px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="text45972">
-        <tspan
-           x="549.04626 558.52625 568.05127 577.57623 586.80127 591.57123 601.09625 607.26123 616.44122 620.61127 629.83624 638.08624 643.96625 648.13623 657.31622 666.82623 671.59625 680.79126 690.30127 699.82623 704.59625 709.87628 714.04626"
-           y="677.18634"
-           sodipodi:role="line"
-           id="tspan45974">Edge projection and fit</tspan>
-      </text>
-      <path
-         d="m 530.98765,690.55354 15.75,0"
-         style="fill:none;stroke:#0000ff;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         id="path45976"
-         inkscape:connector-curvature="0" />
-      <text
-         y="694.49103"
-         x="559.11267"
-         style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="text45978">
-        <tspan
-           x="559.11267 567.77515 574.67139 579.08142 585.97766 589.55518 593.51514 600.40015 605.02393 608.60138 618.31018 621.88763 631.31512 634.89264 642.04767 649.20264 652.78015 659.93512"
-           y="694.49103"
-           sodipodi:role="line"
-           id="tspan45980">Data for M = 24.45</tspan>
-      </text>
-      <path
-         d="m 530.98765,707.07697 15.75,0"
-         style="fill:none;stroke:#008000;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         id="path45982"
-         inkscape:connector-curvature="0" />
-      <text
-         y="711.01447"
-         x="559.11267"
-         style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="text45984">
-        <tspan
-           x="559.11267 566.22266 573.36639 580.51013 587.42889 591.49017 595.45013 598.57764 602.98767 606.56512 610.52515 617.41016 622.03387 625.61139 635.32013 638.89764 648.32513 651.90265 659.05768 666.21265 669.79016 676.94513"
-           y="711.01447"
-           sodipodi:role="line"
-           id="tspan45986">Edge-fit for M = 24.45</tspan>
-      </text>
-      <path
-         d="m 530.98765,723.60041 15.75,0"
-         style="fill:none;stroke:#ff0000;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         id="path45988"
-         inkscape:connector-curvature="0" />
-      <text
-         y="727.5379"
-         x="559.11267"
-         style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="text45990">
-        <tspan
-           x="559.11267 567.77515 574.67139 579.08142 585.97766 589.55518 593.51514 600.40015 605.02393 608.60138 618.31018 621.88763 631.31512 634.89264 642.04767 645.62512 652.78015 659.93512 667.09015 674.24518 681.40015 688.55518 695.71014 702.86517 710.02014 717.17517"
-           y="727.5379"
-           sodipodi:role="line"
-           id="tspan45992">Data for M = 8.50434782609</tspan>
-      </text>
-      <path
-         d="m 530.98765,740.12385 15.75,0"
-         style="fill:none;stroke:#00bfbf;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         id="path45994"
-         inkscape:connector-curvature="0" />
-      <text
-         y="744.06134"
-         x="559.11267"
-         style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="text45996">
-        <tspan
-           x="559.11267 566.22266 573.36639 580.51013 587.42889 591.49017 595.45013 598.57764 602.98767 606.56512 610.52515 617.41016 622.03387 625.61139 635.32013 638.89764 648.32513 651.90265 659.05768 662.63513 669.79016 676.94513 684.10016 691.25513 698.41016 705.56512 712.72015 719.87512 727.03015 734.18512"
-           y="744.06134"
-           sodipodi:role="line"
-           id="tspan45998">Edge-fit for M = 8.50434782609</tspan>
-      </text>
-      <path
-         d="m 530.98765,756.64729 15.75,0"
-         style="fill:none;stroke:#bf00bf;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         id="path46000"
-         inkscape:connector-curvature="0" />
-      <text
-         y="760.58478"
-         x="559.11267"
-         style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="text46002">
-        <tspan
-           x="559.11267 567.77515 574.67139 579.08142 585.97766 589.55518 593.51514 600.40015 605.02393 608.60138 618.31018 621.88763 631.31512 634.89264 642.04767 645.62512 652.78015 659.93512 667.09015 674.24518 681.40015 688.55518 695.71014 702.86517 710.02014 717.17517"
-           y="760.58478"
-           sodipodi:role="line"
-           id="tspan46004">Data for M = 5.14736842105</tspan>
-      </text>
-      <path
-         d="m 530.98765,773.17072 15.75,0"
-         style="fill:none;stroke:#bfbf00;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         id="path46006"
-         inkscape:connector-curvature="0" />
-      <text
-         y="777.10822"
-         x="559.11267"
-         style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="text46008">
-        <tspan
-           x="559.11267 566.22266 573.36639 580.51013 587.42889 591.49017 595.45013 598.57764 602.98767 606.56512 610.52515 617.41016 622.03387 625.61139 635.32013 638.89764 648.32513 651.90265 659.05768 662.63513 669.79016 676.94513 684.10016 691.25513 698.41016 705.56512 712.72015 719.87512 727.03015 734.18512"
-           y="777.10822"
-           sodipodi:role="line"
-           id="tspan46010">Edge-fit for M = 5.14736842105</tspan>
-      </text>
+      <g
+         id="g4531">
+        <g
+           id="g4568"
+           transform="translate(20.000001,0)">
+          <path
+             d="m 542.98478,785.07041 180.23873,0 0,-119.6611 -180.23873,0 0,119.6611 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.11219609;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path45970"
+             inkscape:connector-curvature="0" />
+          <text
+             y="681.38446"
+             x="548.88824"
+             style="font-variant:normal;font-weight:normal;font-size:15px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text45972">
+            <tspan
+               x="548.88824 558.36823 567.89325 577.41821 586.64325 591.41321 600.93823 607.10321 616.2832 620.45325 629.67822 637.92822 643.80823 647.97821 657.1582 666.66821 671.43823 680.63324 690.14325 699.66821 704.43823 709.71826 713.88824"
+               y="681.38446"
+               sodipodi:role="line"
+               id="tspan45974">Edge projection and fit</tspan>
+          </text>
+          <path
+             d="m 548.82962,694.75165 15.75,0"
+             style="fill:none;stroke:#0000ff;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path45976"
+             inkscape:connector-curvature="0" />
+          <text
+             y="698.68915"
+             x="576.95465"
+             style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text45978">
+            <tspan
+               x="576.95465 585.61713 592.51337 596.9234 603.81964 607.39716 611.35712 618.24213 622.86591 626.44336 636.15216 639.72961 649.1571 652.73462 659.88965 667.04462 670.62213 677.7771"
+               y="698.68915"
+               sodipodi:role="line"
+               id="tspan45980">Data for M = 24.45</tspan>
+          </text>
+          <path
+             d="m 548.82962,711.27508 15.75,0"
+             style="fill:none;stroke:#008000;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path45982"
+             inkscape:connector-curvature="0" />
+          <text
+             y="715.21259"
+             x="576.95465"
+             style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text45984">
+            <tspan
+               x="576.95465 584.06464 591.20837 598.35211 605.27087 609.33215 613.29211 616.41962 620.82965 624.4071 628.36713 635.25214 639.87585 643.45337 653.16211 656.73962 666.16711 669.74463 676.89966 684.05463 687.63214 694.78711"
+               y="715.21259"
+               sodipodi:role="line"
+               id="tspan45986">Edge-fit for M = 24.45</tspan>
+          </text>
+          <path
+             d="m 548.82962,727.79852 15.75,0"
+             style="fill:none;stroke:#ff0000;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path45988"
+             inkscape:connector-curvature="0" />
+          <text
+             y="731.73602"
+             x="576.95465"
+             style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text45990">
+            <tspan
+               x="576.95465 585.61713 592.51337 596.9234 603.81964 607.39716 611.35712 618.24213 622.86591 626.44336 636.15216 639.72961 649.1571 652.73462 659.88965 663.4671"
+               y="731.73602"
+               sodipodi:role="line"
+               id="tspan45992">Data for M = 8.50</tspan>
+          </text>
+          <path
+             d="m 548.82962,744.32196 15.75,0"
+             style="fill:none;stroke:#00bfbf;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path45994"
+             inkscape:connector-curvature="0" />
+          <text
+             y="748.25946"
+             x="576.95465"
+             style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text45996">
+            <tspan
+               x="576.95465 584.06464 591.20837 598.35211 605.27087 609.33215 613.29211 616.41962 620.82965 624.4071 628.36713 635.25214 639.87585 643.45337 653.16211 656.73962 666.16711 669.74463 676.89966 680.47711"
+               y="748.25946"
+               sodipodi:role="line"
+               id="tspan45998">Edge-fit for M = 8.50</tspan>
+          </text>
+          <path
+             d="m 548.82962,760.8454 15.75,0"
+             style="fill:none;stroke:#bf00bf;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path46000"
+             inkscape:connector-curvature="0" />
+          <text
+             y="764.7829"
+             x="576.95465"
+             style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text46002">
+            <tspan
+               x="576.95465 585.61713 592.51337 596.9234 603.81964 607.39716 611.35712 618.24213 622.86591 626.44336 636.15216 639.72961 649.1571 652.73462 659.88965 663.4671"
+               y="764.7829"
+               sodipodi:role="line"
+               id="tspan46004">Data for M = 5.15</tspan>
+          </text>
+          <path
+             d="m 548.82962,777.36883 15.75,0"
+             style="fill:none;stroke:#bfbf00;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path46006"
+             inkscape:connector-curvature="0" />
+          <text
+             y="781.30634"
+             x="576.95465"
+             style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text46008">
+            <tspan
+               x="576.95465 584.06464 591.20837 598.35211 605.27087 609.33215 613.29211 616.41962 620.82965 624.4071 628.36713 635.25214 639.87585 643.45337 653.16211 656.73962 666.16711 669.74463 676.89966 680.47711"
+               y="781.30634"
+               sodipodi:role="line"
+               id="tspan46010">Edge-fit for M = 5.15</tspan>
+          </text>
+        </g>
+      </g>
       <path
          d="m 192.81969,1087.6551 558,0 0,-196.36364 -558,0 0,196.36364 z"
          style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -1686,66 +1693,72 @@
            id="path46166"
            style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="m 72,43.2 0,157.09091" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path46168"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 76.5,47.7 153.13437,0 0,58.48125 -153.13437,0 0,-58.48125 z" />
-        <text
-           id="text46170"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,117.64531,93.45625)">
-          <tspan
-             id="tspan46172"
-             sodipodi:role="line"
-             y="0"
-             x="0 9.3000002 16.656 24.264 30.516001 36.768002 40.104 47.459999 55.068001 58.883999 63.108002 66.444">Gaussian fit</tspan>
-        </text>
-        <path
-           inkscape:connector-curvature="0"
-           id="path46174"
-           style="fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 82.8,82.7625 12.6,0" />
-        <text
-           id="text46176"
-           style="font-variant:normal;font-weight:normal;font-size:9px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,105.3,79.6125)">
-          <tspan
-             id="tspan46178"
-             sodipodi:role="line"
-             y="0"
-             x="0 5.1750002 7.677 11.205 14.067 17.235001 22.743 26.441999 29.304001 37.070999 39.932999 47.474998 50.337002 56.061001 61.785 64.647003 70.371002">Fit for M = 24.45</tspan>
-        </text>
-        <path
-           inkscape:connector-curvature="0"
-           id="path46180"
-           style="fill:none;stroke:#008000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 82.8,69.54375 12.6,0" />
-        <text
-           id="text46182"
-           style="font-variant:normal;font-weight:normal;font-size:9px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,105.3,66.39375)">
-          <tspan
-             id="tspan46184"
-             sodipodi:role="line"
-             y="0"
-             x="0 5.1750002 7.677 11.205 14.067 17.235001 22.743 26.441999 29.304001 37.070999 39.932999 47.474998 50.337002 56.061001 58.923 64.647003 70.371002 76.095001 81.819 87.542999 93.266998 98.990997 104.715 110.439 116.163">Fit for M = 8.50434782609</tspan>
-        </text>
-        <path
-           inkscape:connector-curvature="0"
-           id="path46186"
-           style="fill:none;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 82.8,56.325 12.6,0" />
-        <text
-           id="text46188"
-           style="font-variant:normal;font-weight:normal;font-size:9px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,105.3,53.175)">
-          <tspan
-             id="tspan46190"
-             sodipodi:role="line"
-             y="0"
-             x="0 5.1750002 7.677 11.205 14.067 17.235001 22.743 26.441999 29.304001 37.070999 39.932999 47.474998 50.337002 56.061001 58.923 64.647003 70.371002 76.095001 81.819 87.542999 93.266998 98.990997 104.715 110.439 116.163">Fit for M = 5.14736842105</tspan>
-        </text>
+        <g
+           id="g4554"
+           transform="translate(3.3584889,1.6792444)">
+          <path
+             d="m 76.418996,48.458618 108.796404,0 0,57.803642 -108.796404,0 0,-57.803642 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83799255;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path46168"
+             inkscape:connector-curvature="0" />
+          <text
+             y="-93.456253"
+             x="95.245316"
+             transform="scale(1,-1)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text46170">
+            <tspan
+               x="95.245316 104.54531 111.9013 119.50927 125.76124 132.01323 135.34923 142.70523 150.31323 154.12923 158.35323 161.68922"
+               y="-93.456253"
+               sodipodi:role="line"
+               id="tspan46172">Gaussian fit</tspan>
+          </text>
+          <path
+             d="m 82.8,82.7625 12.6,0"
+             style="fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path46174"
+             inkscape:connector-curvature="0" />
+          <text
+             transform="matrix(1,0,0,-1,105.3,79.6125)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text46176">
+            <tspan
+               x="0 5.1750002 7.677 11.205 14.067 17.235001 22.743 26.441999 29.304001 37.070999 39.932999 47.474998 50.337002 56.061001 61.785 64.647003 70.371002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan46178">Fit for M = 24.45</tspan>
+          </text>
+          <path
+             d="m 82.8,69.54375 12.6,0"
+             style="fill:none;stroke:#008000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path46180"
+             inkscape:connector-curvature="0" />
+          <text
+             transform="matrix(1,0,0,-1,105.3,66.39375)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text46182">
+            <tspan
+               x="0 5.1750002 7.677 11.205 14.067 17.235001 22.743 26.441999 29.304001 37.070999 39.932999 47.474998 50.337002 56.061001 58.923 64.647003"
+               y="0"
+               sodipodi:role="line"
+               id="tspan46184">Fit for M = 8.50</tspan>
+          </text>
+          <path
+             d="m 82.8,56.325 12.6,0"
+             style="fill:none;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path46186"
+             inkscape:connector-curvature="0" />
+          <text
+             transform="matrix(1,0,0,-1,105.3,53.175)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text46188">
+            <tspan
+               x="0 5.1750002 7.677 11.205 14.067 17.235001 22.743 26.441999 29.304001 37.070999 39.932999 47.474998 50.337002 56.061001 58.923"
+               y="0"
+               sodipodi:role="line"
+               id="tspan46190">Fit for M = 5.15</tspan>
+          </text>
+        </g>
       </g>
       <flowRoot
          transform="matrix(0,-1,1,0,-379.15354,2254.254)"
